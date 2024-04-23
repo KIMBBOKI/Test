@@ -1,11 +1,11 @@
 {
-  "name": "helioslauncher",
-  "version": "2.2.1",
+  "name": "testlauncher",
+  "version": "1.0.0",
   "productName": "Helios Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "github.com/KIMBBOKI/Test",
+  "homepage": "https://github.com/KIMBBOKI/Test",
   "bugs": {
     "url": "https://github.com/KIMBBOKI/Test/issues"
   },
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+github.com/KIMBBOKI/Test.git"
+    "url": "git+https://github.com/KIMBBOKI/Test.git"
   }
 }
